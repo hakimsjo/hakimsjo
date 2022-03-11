@@ -1,5 +1,4 @@
 # Bror Hakim Sjöström
-| ![profilbild](https://avatars.githubusercontent.com/u/8287550?v=4)  | Adress:<br>Ängabacken 9<br>692 36 Kumla<br><br>Mobil: 0703–756549<br><br>E-Post: hakimjso@gmail.com |
 | ------------ | ------------ |
 
 ## Personligt
@@ -74,4 +73,4 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever 
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-<br />
+
