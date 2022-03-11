@@ -1,4 +1,4 @@
-# Bror Hakim Sjöström
+# Hakim Sjöström
 
 ## Personligt
 Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever mig själv som lugn och stresstålig. På senare år har jag jobbat mycket med GTD metoden för att hantera både jobbet och privatlivet. Min DiSC®-stil är:  iS. Jag bor med min fru och två döttrar i en villa i Kumla.
