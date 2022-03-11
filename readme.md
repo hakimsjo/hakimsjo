@@ -52,7 +52,7 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever 
 [![website](./img/instagram-light.svg)](https://instagram.com/hakimsjo#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/hakimsjo#gh-dark-mode-only)
 
-### Languages and Tools:
+### Språk och verktyg:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
