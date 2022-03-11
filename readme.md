@@ -37,8 +37,8 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever 
 
 ### Kontakta mig:
 
-[![website](./img/globe-light.svg)
-[![website](./img/globe-dark.svg)]
+[![website](./img/globe-light.svg)](https://hakimsjo.blogspot.com/)
+[![website](./img/globe-dark.svg)](https://hakimsjo.blogspot.com/)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/hakimsjo#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/hakimsjo#gh-dark-mode-only)
