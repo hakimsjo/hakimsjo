@@ -40,8 +40,8 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever 
 [![website](./img/globe-light.svg)](https://hakimsjo.blogspot.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://hakimsjo.blogspot.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/hakimsjo#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/hakimsjo#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/https://www.youtube.com/channel/UChQ9j3gWQ3iI9SGoJZmzahg#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/https://www.youtube.com/channel/UChQ9j3gWQ3iI9SGoJZmzahg#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/hakimsjo#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/hakimsjo#gh-dark-mode-only)
