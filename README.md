@@ -6,7 +6,7 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever 
 ## Nuvarande anställning
 |Roll  | År  |
 | :------------ | :------------ |
-| Arkitekturägare <br>- Leda och utveckla arkitekturforum<br>- Delta i arkitekturberedningen<br>- Ägare av SCB arkitekturmodeller<br>- Driver och förbättrar arkitekturarbetet <br>- Internationella projekt: SERV2, VALIDAT och Sharing tools (CSPA)</br-> | 2019-  |
+| Arkitekturägare <br>- Leda och utveckla arkitekturforum<br>- Deltar i arkitekturberedningen<br>- Utvecklar SCBs verksamhetsmodeller<br>- Driver och förbättrar arkitekturarbetet <br>- Internationella projekt: SERV2, VALIDAT och Sharing tools (CSPA)</br-> | 2019-  |
 | IT-Arkitekt  | 2011-2019  |
 | Lösningsarkitekt  | 2008-2010  |
 | Utvecklare .NET  | 1998-2007  |
