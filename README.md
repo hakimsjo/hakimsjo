@@ -1,9 +1,11 @@
 # Hakim Sjöström
 
 ## Personligt
-Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever mig själv som lugn och stresstålig. På senare år har jag jobbat mycket med GTD metoden för att hantera både jobbet och privatlivet. Min DiSC®-stil är:  iS. Jag bor med min fru och två döttrar i en villa i Kumla. 
+
+Jag är en glad och öppen person som tycker om att lösa problem. Jag bor med min fru och två döttrar i en villa i Kumla. Jag upplever mig själv som lugn och stresstålig. Jag är teknikintresserad och har en bakrund som utvecklare men på senare år jag har mer jobbat med arkitektur på olika sätt. På senare år har jag jobbat med produktivitet och speciellt GTD metoden för att hantera både jobbet och privatlivet. Min DiSC®-stil är:  iS.
 
 ## Nuvarande anställning
+
 |Roll  | År  |
 | :------------ | :------------ |
 | Arkitekturägare <br>- Leder och utveckla arkitekturforum<br>- Deltar i arkitekturberedningen<br>- Utvecklar SCBs verksamhetsmodeller<br>- Driver och förbättrar arkitekturarbetet <br>- Internationella projekt: SERV2, VALIDAT och Sharing tools (CSPA)</br-> | 2019-  |
@@ -12,12 +14,14 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever 
 | Utvecklare .NET  | 1998-2007  |
 
 ## Tidigare anställningar
+
 |Roll  | År  |
 | :------------ | :------------ |
 | IT-Ansvarig, Gryts Bruk AB | 1998-2007  |
 | Eget företag BHD System Design  | 1996-2010  |
 
 ## Utbildning
+
 | Högskoleutbildning  | Tidpunkt  |
 | ------------ | ------------ |
 | Fil. Magister i systemvetenskap 160p. Huvudämne: Informatik  | 1993-1997  |
@@ -31,11 +35,12 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever 
 | Praktisk projektledning  | 2000  |
 
 ## Övrigt
+
 - Behärskar Svenska, Engelska och Franska.
-- Innehar B körkort. 
+- Innehar B körkort.
 - Värnpliktstjänstgöring, 1991-06-10 -- 1992-04-03.
 
-### Kontakta mig:
+### Kontakta mig
 
 [![website](./img/globe-light.svg)](https://hakimsjo.blogspot.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://hakimsjo.blogspot.com/#gh-dark-mode-only)
@@ -46,13 +51,13 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag upplever 
 [![website](./img/twitter-light.svg)](https://twitter.com/hakimsjo#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/hakimsjo#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/hakimsjo#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/hakimsjo#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hakim-sjöström-772baa31#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hakim-sjöström-772baa31#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/hakimsjo#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/hakimsjo#gh-dark-mode-only)
 
-### Språk och verktyg:
+### Språk och verktyg
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
