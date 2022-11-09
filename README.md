@@ -8,7 +8,7 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag bor med m
 
 |Roll  | År  |
 | :------------ | :------------ |
-| Enterprise Architekt, Statistiska Centralbyrån <br> - Leder arbetspaket, bearbetning och analys i samverkan <br> - Deltar i arkitekturberedningen <br> - Utvecklar SCBs verksamhetsarkitektur <br> - Utvecklar arkitekturarbetet <br> Senaste internationella projekt: <br>  - Open Source transformation knowlage <br> - Cloud for official statistics <br> - Sharing tools (CSPA)</br-> | 2022-  |
+| Enterprisearkitekt, Statistiska Centralbyrån <br> - Leder arbetspaket, bearbetning och analys i samverkan <br> - Deltar i arkitekturberedningen <br> - Utvecklar SCBs verksamhetsarkitektur <br> - Utvecklar arkitekturarbetet <br> Senaste internationella projekt: <br>  - Open Source transformation knowlage <br> - Cloud for official statistics <br> - Sharing tools (CSPA)</br-> | 2022-  |
 | Arkitekturägare, SCB  | 2019-2022  |
 | IT-Arkitekt, SCB  | 2011-2019  |
 | Lösningsarkitekt, SCB  | 2008-2010  |
