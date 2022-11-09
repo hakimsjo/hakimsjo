@@ -2,16 +2,17 @@
 
 ## Personligt
 
-Jag är en glad och öppen person som tycker om att lösa problem. Jag bor med min fru och två döttrar i en villa i Kumla. Jag upplever mig själv som lugn och stresstålig. Jag är teknikintresserad och har en bakgrund som utvecklare men på senare år jag har mer jobbat med arkitektur på olika sätt. Privat är jag även intresserad av stressfri produktivitet och speciellt GTD metoden för att hantera både jobbet och privatlivet. Min DiSC®-stil är:  iS.
+Jag är en glad och öppen person som tycker om att lösa problem. Jag bor med min fru och två döttrar i en villa i Kumla. Jag upplever mig själv som lugn och stresstålig. Jag är teknikintresserad och har en bakgrund som utvecklare men på senare år jag har mer jobbat med arkitektur på olika sätt. Privat är jag även intresserad av stressfri produktivitet och speciellt GTD metoden för att hantera både jobbet och privatlivet. Min DiSC®-stil är: iS.
 
 ## Nuvarande anställning
 
 |Roll  | År  |
 | :------------ | :------------ |
-| - Leder och utvecklar arkitekturforum<br>- Deltar i arkitekturberedningen<br>- Utvecklar SCBs verksamhetsmodeller<br>- Driver och förbättrar arkitekturarbetet <br>- Internationella projekt: SERV2, VALIDAT och Sharing tools (CSPA)</br-> | 2019-  |
-| IT-Arkitekt  | 2011-2019  |
-| Lösningsarkitekt  | 2008-2010  |
-| Utvecklare .NET  | 1998-2007  |
+| Enterprise Architekt, Statistiska Centralbyrån <br> - Leder arbetspaket, bearbetning och analys i samverkan <br> - Deltar i arkitekturberedningen <br> - Utvecklar SCBs verksamhetsarkitektur <br> - Utvecklar arkitekturarbetet <br> Senaste internationella projekt: <br>  - Open Source transformation knowlage <br> - Cloud for official statistics <br> - Sharing tools (CSPA)</br-> | 2022-  |
+| Arkitekturägare, SCB  | 2019-2022  |
+| IT-Arkitekt, SCB  | 2011-2019  |
+| Lösningsarkitekt, SCB  | 2008-2010  |
+| Utvecklare .NET, SCB  | 1998-2007  |
 
 ## Tidigare anställningar
 
@@ -61,11 +62,6 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag bor med m
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
