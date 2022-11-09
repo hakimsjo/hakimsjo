@@ -4,7 +4,7 @@
 
 Jag är en glad och öppen person som tycker om att lösa problem. Jag bor med min fru och två döttrar i en villa i Kumla. Jag upplever mig själv som lugn och stresstålig. Jag är teknikintresserad och har en bakgrund som utvecklare men på senare år jag har mer jobbat med arkitektur på olika sätt. Privat är jag även intresserad av stressfri produktivitet och speciellt GTD metoden för att hantera både jobbet och privatlivet. Min DiSC®-stil är: iS.
 
-## Nuvarande anställning
+## Anställningar
 
 |Roll  | År  |
 | :------------ | :------------ |
