@@ -1,48 +1,48 @@
 # Hakim Sjöström
 
-## Personligt
+## Personal Profile
 
-Jag är en glad och öppen person som tycker om att lösa problem. Jag bor med min fru och två döttrar i en villa i Kumla. Jag upplever mig själv som lugn och stresstålig. Jag är teknikintresserad och har en bakgrund som utvecklare men på senare år jag har mer jobbat med arkitektur på olika sätt. Privat är jag även intresserad av stressfri produktivitet och speciellt GTD metoden för att hantera både jobbet och privatlivet. Min DiSC®-stil är: iS.
+I am a cheerful and open person who enjoys solving problems. I live with my wife and two daughters in a house in Kumla, Sweden. I consider myself to be calm and resilient to stress. I have a keen interest in technology and a background as a developer, though in recent years I have primarily worked with architecture in various capacities. In my personal life, I am interested in stress-free productivity, particularly the GTD (Getting Things Done) methodology for managing both work and life. My DiSC® style is: iS.
 
-## Anställningar
+## Professional Experience
 
-|Roll  | År  |
+| Role | Year |
 | :------------ | :------------ |
-| IT-Arkitekt, CAB  | 2023-  |
-| Enterprisearkitekt, Statistiska Centralbyrån <br> - Leder arbetspaket, bearbetning och analys i samverkan <br> - Deltar i arkitekturberedningen <br> - Utvecklar SCBs verksamhetsarkitektur <br> - Utvecklar arkitekturarbetet <br> Senaste internationella projekt: <br> - Balsam - öppen beräkningsplattform <br>  - Open Source transformation knowlage <br> - Cloud for official statistics <br> - Sharing tools (CSPA)</br-> | 2022-2023  |
-| Arkitekturägare, SCB  | 2019-2022  |
-| IT-Arkitekt, SCB  | 2011-2019  |
-| Lösningsarkitekt, SCB  | 2008-2010  |
-| Utvecklare full stack, SCB  | 1998-2007  |
+| IT Architect, CAB | 2023- |
+| Enterprise Architect, Statistics Sweden <br> - Lead work packages, processing, and analysis in collaboration <br> - Member of the architecture board <br> - Develop Statistics Sweden's business architecture <br> - Develop architectural practices <br> Recent international projects: <br> - Balsam - open computing platform <br> - Open Source transformation knowledge <br> - Cloud for official statistics <br> - Sharing tools (CSPA) | 2022-2023 |
+| Architecture Owner, Statistics Sweden | 2019-2022 |
+| IT Architect, Statistics Sweden | 2011-2019 |
+| Solution Architect, Statistics Sweden | 2008-2010 |
+| Full Stack Developer, Statistics Sweden | 1998-2007 |
 
-## Tidigare anställningar
+## Previous Employment
 
-|Roll  | År  |
+| Role | Year |
 | :------------ | :------------ |
-| IT-Ansvarig, Gryts Bruk AB | 1998-2007  |
-| Eget företag BHD System Design  | 1996-2010  |
+| IT Manager, Gryts Bruk AB | 1998-2007 |
+| Self-employed, BHD System Design | 1996-2010 |
 
-## Utbildning
+## Education
 
-| Högskoleutbildning  | Tidpunkt  |
+| Higher Education | Period |
 | ------------ | ------------ |
-| Fil. Magister i systemvetenskap 160p. Huvudämne: Informatik  | 1993-1997  |
-| **Relevanta arkitektur relaterade utbildningar**|   |
-| Certified Business Transformation Architect  | 2019  |
-| Modern Service Oriented Architecture (SOA)   | 2015  |
-| Arkitektutbildning ur SCB perspektiv  | 2011  |
-| SOA och verksamheten  | 2009  |
-| Advanced distributed design using SOA and DDD  | 2008  |
-| Projektarbete på SCB  | 2001  |
-| Praktisk projektledning  | 2000  |
+| Master of Science in Information Systems, 160 credits. Major: Informatics | 1993-1997 |
+| **Relevant Architecture-Related Training** | |
+| Certified Business Transformation Architect | 2019 |
+| Modern Service Oriented Architecture (SOA) | 2015 |
+| Architecture training from a Statistics Sweden perspective | 2011 |
+| SOA and Business | 2009 |
+| Advanced distributed design using SOA and DDD | 2008 |
+| Project work at Statistics Sweden | 2001 |
+| Practical Project Management | 2000 |
 
-## Övrigt
+## Other Info
 
-- Behärskar Svenska, Engelska och Franska.
-- Innehar B körkort.
-- Värnpliktstjänstgöring, 1991-06-10 -- 1992-04-03.
+- Proficient in Swedish, English, and French.
+- Holds a Class B driver's license.
+- Military service, 1991-06-10 -- 1992-04-03.
 
-### Kontakta mig
+### Contact Me
 
 [![website](./img/globe-light.svg)](https://hakimsjo.blogspot.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://hakimsjo.blogspot.com/#gh-dark-mode-only)
@@ -59,7 +59,7 @@ Jag är en glad och öppen person som tycker om att lösa problem. Jag bor med m
 [![website](./img/instagram-light.svg)](https://instagram.com/hakimsjo#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/hakimsjo#gh-dark-mode-only)
 
-### Språk och verktyg
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
