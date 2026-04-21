@@ -2,7 +2,7 @@
 
 ## Personal Profile
 
-I am a cheerful and open person who enjoys solving problems. I live with my wife and two daughters in a house in Kumla, Sweden. I consider myself to be calm and resilient to stress. I have a keen interest in technology and a background as a developer, though in recent years I have primarily worked with architecture in various capacities. In my personal life, I am interested in stress-free productivity, particularly the GTD (Getting Things Done) methodology for managing both work and life. My DiSC® style is: iS.
+I am a dedicated professional with a solution-oriented mindset and a strong passion for solving complex technical and architectural challenges. I live with my wife and two daughters in a house in Kumla, Sweden. I consider myself to be calm and resilient to stress. I have a keen interest in technology and a background as a developer, though in recent years I have primarily worked with architecture in various capacities. In my personal life, I am interested in stress-free productivity, particularly the GTD (Getting Things Done) methodology for managing both work and life. My DiSC® style is: iS.
 
 ## Professional Experience
 
