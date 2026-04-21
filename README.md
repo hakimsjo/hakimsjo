@@ -8,6 +8,7 @@ I am a dedicated professional with a solution-oriented mindset and a strong pass
 
 | Role | Year |
 | :------------ | :------------ |
+| Co-Founder, System By Design (Side Business) | 2026- |
 | IT Architect, CAB | 2023- |
 | Enterprise Architect, Statistics Sweden <br> - Lead work packages, processing, and analysis in collaboration <br> - Member of the architecture board <br> - Develop Statistics Sweden's business architecture <br> - Develop architectural practices <br> Recent international projects: <br> - Balsam - open computing platform <br> - Open Source transformation knowledge <br> - Cloud for official statistics <br> - Sharing tools (CSPA) | 2022-2023 |
 | Architecture Owner, Statistics Sweden | 2019-2022 |
